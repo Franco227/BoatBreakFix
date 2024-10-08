@@ -5,6 +5,7 @@
 
   "name": "Boat Break Fix",
   "description": "Prevents boats from breaking upon falling. Fixing what mojang should've fixed 6 years ago.",
+  "icon": "assets/boatbreakfix/boatbreakfix.png",
   "authors": [
     "ElocinDev"
   ],
